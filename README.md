@@ -1,5 +1,7 @@
 # GPU accelerated generation of digitally reconstructed radiographs (DRR)
 
+![](pics/DRR_example.png)
+
 # Brief Description
 The repository generates a Python library (SiddonGpuPy.pyd) for generating DRRs from a CT/MRI scan with parallelization on the GPU using CUDA (Invidia). 
 The algorithm is based on the method proposed by Siddon ("Fast calculation of the exact radiological path for a three-dimensional CT array.", 1985 Med. Phys.) and 
